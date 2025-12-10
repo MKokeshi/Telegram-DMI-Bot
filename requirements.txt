@@ -5,3 +5,4 @@ xlrd
 beautifulsoup4
 python-gitlab
 pytz
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
